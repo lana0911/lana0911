@@ -20,3 +20,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 https://lana0911.github.io/Autobiography2/nine.html.
+<br>
+https://lana0911.github.io/Autobiography1/parallax.html<br>
