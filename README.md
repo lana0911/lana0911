@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hi👋
 👩 張黛妤🇹🇼</br>
-🏫逢甲大學 FCU
-💻資訊工程學系 大三 Junior NOW!
+🏫逢甲大學 FCU</br>
+💻資訊工程學系 大三 I'm junior NOW!</br>
 
 
 
