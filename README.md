@@ -1,4 +1,9 @@
 ### Hi there 👋
+👩 張黛妤🇹🇼
+🏫逢甲大學 FCU
+💻資訊工程學系 大三 Junior NOW!
+
+
 
 <!--
 **lana0911/lana0911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
