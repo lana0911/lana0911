@@ -21,4 +21,5 @@ Here are some ideas to get you started:
 -->
 https://lana0911.github.io/Autobiography2/nine.html.
 <br>
-https://lana0911.github.io/Autobiography1/parallax.html<br>https://lana0911.github.io/other/
+https://lana0911.github.io/Autobiography1/parallax.html<br>
+https://lana0911.github.io/other/
