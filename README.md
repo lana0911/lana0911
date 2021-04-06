@@ -1,5 +1,5 @@
-👩 張黛妤</br>
-🏫逢甲大學 FCU</br>
+👩 張黛妤&emsp;
+🏫逢甲大學 FCU &emsp;
 💻資訊工程學系 大三 I'm junior NOW!</br>
 ## Click this url to see the detail of my website!&emsp;裡面有目前所有作品的介紹與連結!
 🔥🔥🔥https://lana0911.github.io/blog/blog.html<br><br>
