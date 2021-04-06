@@ -13,3 +13,4 @@ https://lana0911.github.io/blog/blog.html<br><br>
 ◧網頁履歷2 : https://lana0911.github.io/Autobiography1/parallax.html<br>(ps瀏覽時請將window縮放至25%)
 
 
+#fhfh
