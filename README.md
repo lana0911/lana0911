@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 https://lana0911.github.io/Autobiography2/nine.html.
 <br>
 https://lana0911.github.io/Autobiography1/parallax.html<br>
-https://lana0911.github.io/other/
-
+https://lana0911.github.io/other/<br>
+https://lana0911.github.io/kinder/kinda.html
 ![image](https://github.com/lana0911/lana0911/blob/main/ings/9-index.gif)
