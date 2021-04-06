@@ -23,3 +23,4 @@ https://lana0911.github.io/Autobiography2/nine.html.
 <br>
 https://lana0911.github.io/Autobiography1/parallax.html<br>
 https://lana0911.github.io/other/
+<img src="9-index.gif">
